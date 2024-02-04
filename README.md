@@ -14,7 +14,7 @@ Below is a list of design patterns that have been explored and implemented in th
 
 ### Creational Patterns
 
-- **Singleton**: Ensures a class has only one instance and provides a global point of access to it. The implementation can be found in the [Singleton](.DesignPatternsLibrary/Singleton) directory.
+- **Singleton**: Ensures a class has only one instance and provides a global point of access to it. The implementation can be found in the [Singleton](./DesignPatternsLibrary/Singleton) directory.
 
 ### Structural Patterns
 
